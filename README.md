@@ -1,5 +1,6 @@
 # Clicker Server
 
+
 ## Installation
 
 ```bash
